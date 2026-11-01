@@ -1,0 +1,12 @@
+Create AWS account.
+Created EC2 Instance but got confused with security group 
+Setup EC2 & Git account.
+Watch video from youtube How to setup Github accout with EC2.
+Learned about Ip Address and its classful/classless addressing.
+IPv4 & IPv6
+Classes of IP addresses
+Public & Private IP ranges
+Class A Private Ip range 10.0.0.0 to 10.255.255.255
+Class B Private IP range 172.16.0.0 to 172.31.255.255.
+Class C Private IP rnage 192.168.0.1 to 192.168.255.255.
+
