@@ -1,0 +1,6 @@
+Day 2: 
+
+Learned about Linux commands, basics Linux commands such as ls, cd, pwd, mkdir, rm, cp, mv, touch, cat, head, tail, ln, and find.
+I practiced all the Linux commands covered in the session for 1 hour using AWS instances and spent another 1 hour writing and executing commands to improve my hands-on skills. I have also started preparing for tomorrow's session by reviewing the upcoming topics, including archive and compression commands, process management, and system information commands such as tar, gzip, zip, ps, top, kill, pgrep, uname, df, du, free, uptime, lscpu, lspci, and lsusb.
+
+
