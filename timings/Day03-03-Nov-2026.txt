@@ -1,0 +1,7 @@
+# What i did today
+
+an hour coding practice
+an hour linux commands practice
+30 min git practice
+Watched Script Video (DevOps Linux Scripting in 2 Hours  Bash Automation  Minimum 18 LPA - PathNex - Shaping Careers)
+50 min write Bash Script.
