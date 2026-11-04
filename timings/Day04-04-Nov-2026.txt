@@ -1,0 +1,14 @@
+Day 04
+
+# What i did today
+
+an hour coding practice
+an Hour linux commands practice
+Practiced Scripting in the afternoon
+Agian started practicing Shell scripting till 10:40 AM
+After that Created an EC2 instance for Day4, 
+installed git
+created new user as Pathnex
+connected to github using ssh key.
+cloned the repo using git clone and now creating this file
+Push the Day 04 GIT task in github account. 
