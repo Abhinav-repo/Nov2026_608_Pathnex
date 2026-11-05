@@ -1,0 +1,17 @@
+Day 05: 05-Nov-2026
+
+Started with Git: Git Branching, Pull, Push and Pull Request Practice
+Shell Scripting: Studied If condition, while loop, file handling
+
+For git:
+Created new instance on AWS
+Installed Git & configure through using Tokens
+Created SSh Key, added to github, cloned the repo on this instance
+used Git pull to check if everything is good, all set
+then created filed under timings and coding_practice
+
+Created multiple scripts for:Systeminfo bash file, ping test server, user validation, etc
+
+2 hour coding practice
+an hour git practice
+
